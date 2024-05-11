@@ -2,6 +2,10 @@
 
 Project Ini adalah sebuah proyek Sistem Informasi Puskesmas yang dikembangkan oleh Evan Arlen Handy sebagai bagian dari seleksi magang di PT Sucofindo Cilacap.
 
+## Status
+
+Proyek sistem informasi ini telah selesai.
+
 ## Informasi Pengembang
 
 - **Nama:** Evan Arlen Handy
