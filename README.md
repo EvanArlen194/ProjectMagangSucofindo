@@ -44,6 +44,6 @@ Proyek ini dikembangkan menggunakan Laravel 8.
 
 Untuk pengguna jenis pasien, email dan password akan dihasilkan secara acak sesuai dengan informasi yang dimasukkan pada saat registrasi.
 
-'''''Catatan'''''
+# Catatan
 Setelah melakukan migrasi database, disarankan untuk menjalankan proses seeding agar akun admin dan dokter bisa muncul di sistem. Anda dapat melakukan seeding dengan menjalankan perintah `php artisan db:seed` dari terminal setelah menjalankan migrasi.
 
